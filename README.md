@@ -17,7 +17,7 @@
 
 <h2> About Me <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFpYXhxdWRuOHN1NTU3Z3lwM292dnRxNGh4bW1idjA1eGNpZDV4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" width = 100px></h2>
 
-<img width="65%" align="right" alt="Github" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z2N2Nta2hjMDdlN3RndWtqeGY1aDF0MTUzZHI3OHgyb2cxY2VnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5dUDvszss1jgU0Jr8d/giphy.gif" />
+<img width="65%" align="right" alt="Github" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z2N2Nta2hjMDdlN3RndWtqeGY1aDF0MTUzZHI3OHgyb2cxY2VnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5dUDvszss1jgU0Jr8d/giphy.gif" width = 60px/>
 
 - 🔭 I’m currently working on:  <br> I am a student
   
